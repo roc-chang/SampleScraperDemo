@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  contentid: MyString
+  title: MyString
+  hits: MyString
+  updateTime: MyString
+  image: MyString
+  href: MyString
+  swfurl: MyString
+  playurl: MyString
+  videourl: MyString
+
+two:
+  contentid: MyString
+  title: MyString
+  hits: MyString
+  updateTime: MyString
+  image: MyString
+  href: MyString
+  swfurl: MyString
+  playurl: MyString
+  videourl: MyString
